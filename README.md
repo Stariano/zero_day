@@ -1,0 +1,1 @@
+Trying to use Git on windows and see what's different that using it on ubuntu
